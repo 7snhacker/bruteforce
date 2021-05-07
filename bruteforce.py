@@ -74,7 +74,7 @@ def log():
 
         else:
             print(f'ERROR [!] {lst}:{password}')
-            print(r)
+            
 
 log()
 
